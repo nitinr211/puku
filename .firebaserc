@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "puku-crm-2-1",
+    "staging": "puku-crm-f381c"
+  },
+  "targets": {},
+  "etags": {}
+}
